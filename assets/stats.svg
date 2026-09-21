@@ -8,7 +8,7 @@
 <text x="25" y="38" font-size="18" font-weight="800" fill="#E10600">Telemetry</text>
 <rect x="25" y="65" width="8" height="8" rx="2" fill="#E10600"/>
 <text x="44" y="74" font-size="13" fill="#8B8F97">Contributions, 12 months</text>
-<text x="278" y="74" font-size="13" font-weight="700" fill="#E6E7EA" text-anchor="end">47</text>
+<text x="278" y="74" font-size="13" font-weight="700" fill="#E6E7EA" text-anchor="end">49</text>
 <rect x="25" y="95" width="8" height="8" rx="2" fill="#E10600"/>
 <text x="44" y="104" font-size="13" fill="#8B8F97">Current streak</text>
 <text x="278" y="104" font-size="13" font-weight="700" fill="#E6E7EA" text-anchor="end">1 day</text>

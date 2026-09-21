@@ -5,11 +5,11 @@
 
 <br><br>
 
-<a href="https://www.linkedin.com/in/im-surya-b-/"><img src="https://img.shields.io/badge/LinkedIn-1B1D21?style=for-the-badge&amp;logo=linkedin&amp;logoColor=E10600" alt="LinkedIn"></a>
+<a href="https://www.linkedin.com/in/im-surya-b-/"><img src="./assets/social-linkedin.svg" alt="LinkedIn" height="28"></a>
 &nbsp;&nbsp;
-<a href="https://x.com/imsurya1875"><img src="https://img.shields.io/badge/X-1B1D21?style=for-the-badge&amp;logo=x&amp;logoColor=E10600" alt="X"></a>
+<a href="https://x.com/imsurya1875"><img src="./assets/social-x.svg" alt="X" height="28"></a>
 &nbsp;&nbsp;
-<a href="mailto:contactsurya33@gmail.com"><img src="https://img.shields.io/badge/Email-1B1D21?style=for-the-badge&amp;logo=gmail&amp;logoColor=E10600" alt="Email"></a>
+<a href="mailto:contactsurya33@gmail.com"><img src="./assets/social-email.svg" alt="Email" height="28"></a>
 
 </div>
 
@@ -64,7 +64,7 @@
 
 <img src="./assets/sec-activity.svg" alt="contribution graph" width="100%">
 
-<img src="./assets/heatmap.svg" alt="Contribution graph: 47 contributions in the last year" width="100%">
+<img src="./assets/heatmap.svg" alt="Contribution graph: 49 contributions in the last year" width="100%">
 
 <br>
 
