@@ -53,9 +53,9 @@ accent      = "red"
 [[project]]
 title       = "S.A.G.E"
 description = "Surya's Advanced General Entity"
-status      = "in development"
+status      = "private repo"
 status_kind = "dev"
-bullets     = ["JARVIS-style voice, vision and gesture control", "email, calendar, files and Git by command", "proposes its own code changes, with rollback"]
+bullets     = ["Human-like voice, vision and gesture control", "email, calendar, files and Git by command", "proposes its own code changes, with rollback"]
 tags        = ["gradio", "fastapi", "react", "tauri", "python"]
 style       = "equalizer"
 accent      = "purple"
