@@ -435,3 +435,25 @@ def gitlog(handle, events):
         if i == 0:
             body.append(f'<circle cx="16" cy="{y - 5}" r="3.5" fill="{HOT}"><animate attributeName="opacity" values="1;.25;1" dur="1.6s" repeatCount="indefinite"/></circle>')
     return svg(W, H, "\n".join(body), "", "Latest commits")
+
+
+# ---------------------------------------------------------------- social badges (self-drawn: no external icon service to break)
+SOCIAL_ICONS = {
+    "linkedin": '<rect width="24" height="24" rx="4" fill="{c}"/><circle cx="6.9" cy="7.3" r="1.9" fill="{bg}"/><rect x="5.2" y="10.2" width="3.4" height="8.6" fill="{bg}"/>'
+                '<path d="M10.9 10.2h3.2v1.3c.6-.95 1.6-1.5 3-1.5 2.9 0 3.6 1.9 3.6 4.5v4.3h-3.4v-3.8c0-1-.2-1.9-1.4-1.9-1.2 0-1.6.9-1.6 1.9v3.8h-3.4z" fill="{bg}"/>',
+    "x": '<path d="M3.5 3.5h4.6L20.5 20.5h-4.6z" fill="{c}"/><path d="M19.6 3.5l-6.3 7.2M4.4 20.5l6.3-7.2" stroke="{c}" stroke-width="1.8" fill="none"/>',
+    "email": '<rect x="2.5" y="5" width="19" height="14" rx="2.2" fill="none" stroke="{c}" stroke-width="2"/><path d="M3.5 7.5L12 13.5l8.5-6" fill="none" stroke="{c}" stroke-width="2" stroke-linejoin="round"/>',
+    "instagram": '<rect x="3" y="3" width="18" height="18" rx="5" fill="none" stroke="{c}" stroke-width="2"/><circle cx="12" cy="12" r="4" fill="none" stroke="{c}" stroke-width="2"/><circle cx="17.2" cy="6.8" r="1.2" fill="{c}"/>',
+    "youtube": '<rect x="2" y="5" width="20" height="14" rx="4" fill="{c}"/><path d="M10 9l5 3-5 3z" fill="{bg}"/>',
+    "website": '<circle cx="12" cy="12" r="9" fill="none" stroke="{c}" stroke-width="2"/><ellipse cx="12" cy="12" rx="4" ry="9" fill="none" stroke="{c}" stroke-width="1.6"/><path d="M3 12h18" stroke="{c}" stroke-width="1.6"/>',
+}
+
+
+def social_badge(label, key):
+    bg, pitch, x0, n = "#1B1D21", 8.6, 39, len(label)
+    W, H = int(x0 + n * pitch + 12), 28
+    xs = " ".join(f(x0 + i * pitch) for i in range(n))
+    icon = SOCIAL_ICONS[key].format(c=RED, bg=bg)
+    body = (f'<rect width="{W}" height="{H}" rx="2" fill="{bg}"/><g transform="translate(14,6) scale(.667)">{icon}</g>'
+            f'<text x="{xs}" y="18.6" font-size="12" font-weight="800" fill="#fff">{escape(label.upper())}</text>')
+    return svg(W, H, body, "", label)
