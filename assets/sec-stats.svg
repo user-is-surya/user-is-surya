@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 56" width="1000" height="56" role="img" aria-label="github stats" font-family="'JetBrains Mono','Fira Code','Cascadia Code','SF Mono',Menlo,Consolas,'Liberation Mono','DejaVu Sans Mono',monospace">
+<title>github stats</title>
+<defs><linearGradient id="car" x1="0" x2="1"><stop offset="0" stop-color="#E10600" stop-opacity="0"/><stop offset=".85" stop-color="#FF2A1A"/><stop offset="1" stop-color="#fff"/></linearGradient>
+<clipPath id="lane"><rect x="412" y="20" width="568" height="18"/></clipPath></defs>
+<rect width="1000" height="56" rx="10" fill="#0A0B0D"/><rect x=".5" y=".5" width="999" height="55" rx="10" fill="none" stroke="#2A2C31"/>
+<polygon points="24,10 32,10 24,46 16,46" fill="#E10600"/>
+<text x="44 56 68 80 92 104 116 128 140 152 164 176 188" y="36" font-size="20" fill="#00D26A" >surya@pitwall</text>
+<text x="200" y="36" font-size="20" fill="#8B8F97" >:</text>
+<text x="212" y="36" font-size="20" fill="#5B9DFF" >~</text>
+<text x="224" y="36" font-size="20" fill="#8B8F97" >$</text>
+<text x="248 260 284 296 308 320 332 344 356" y="36" font-size="20" fill="#E6E7EA" >ls./stats</text>
+<rect x="371" y="19" width="7.2" height="22" fill="#FF2A1A"><animate attributeName="opacity" calcMode="discrete" values="1;0" keyTimes="0;.5" dur="1s" repeatCount="indefinite"/></rect>
+<rect x="412" y="28" width="568" height="1" fill="#2A2C31"/>
+<g clip-path="url(#lane)"><rect x="0" y="27" width="110" height="3" fill="url(#car)"><animateTransform attributeName="transform" type="translate" from="302 0" to="980 0" dur="2.8s" repeatCount="indefinite"/></rect></g>
+</svg>

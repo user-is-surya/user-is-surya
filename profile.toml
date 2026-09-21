@@ -1,0 +1,87 @@
+# ════════════════════════════════════════════════════════════════════
+#  profile.toml: the ONLY file you need to edit.
+#  Edit it right on github.com (pencil icon), commit, and the profile
+#  rebuilds itself in about a minute. README.md and assets/ are generated.
+# ════════════════════════════════════════════════════════════════════
+
+[me]
+username = "user-is-surya"
+name     = "Surya"                  # big text in the header
+
+[social]                            # delete a line to hide that badge
+linkedin = "https://www.linkedin.com/in/im-surya-b-/"
+x        = "https://x.com/imsurya1875"
+email    = "contactsurya33@gmail.com"
+# also supported: instagram, youtube, reddit, website
+
+[header]
+# The typing tagline cycles through these (max 5 lines, about 46 characters each).
+lines = [
+  "AI & Data Science student at CIT Chennai",
+  "Building F1Intel, racing data made readable",
+  "Building S.A.G.E, my own JARVIS",
+  "Turning race telemetry into stories",
+]
+show_last_push = true               # auto-adds "last push: <repo>, <date>" from your GitHub activity
+
+[sections]                          # true / false to show or hide
+projects = true
+stack    = true
+stats    = true                     # stats card + top languages
+activity = true                     # contribution heatmap
+recent   = true                     # git log of your latest public commits
+
+# ─── FEATURED PROJECTS ────────────────────────────────────────────────
+[featured]
+mode = "manual"                     # "manual": show exactly the [[project]] blocks below, in order
+                                    # "auto"  : show your top public repos automatically
+auto_count = 4                      # only used when mode = "auto"
+
+# A project that is NOT a public repo (private, or hosted somewhere else):
+# describe it by hand.
+[[project]]
+title       = "f1intel"
+url         = "https://f1intel.in"  # card becomes a link; remove the line for a plain card
+description = "Formula 1 stats, telemetry and race analysis."
+status      = "f1intel.in"
+status_kind = "live"                # live (pulsing green) | dev (purple) | idle (grey)
+bullets     = ["race replay with leaderboard", "what-if strategy simulator", "AI race command center"]
+tags        = ["python", "streamlit", "fastf1", "plotly", "gemini"]
+style       = "trace"               # trace | equalizer | activity
+accent      = "red"
+
+[[project]]
+title       = "S.A.G.E"
+description = "Surya's Advanced General Entity"
+status      = "in development"
+status_kind = "dev"
+bullets     = ["JARVIS-style voice, vision and gesture control", "email, calendar, files and Git by command", "proposes its own code changes, with rollback"]
+tags        = ["gradio", "fastapi", "react", "tauri", "python"]
+style       = "equalizer"
+accent      = "purple"
+
+# A project on GitHub: give the repo name and description, stars, topics,
+# languages and commit activity are pulled in automatically.
+# Any field you write here overrides the automatic one.
+[[project]]
+repo        = "NEXUS---weather-analyser-forecaster-and-predictor"
+title       = "NEXUS"
+description = "Weather analytics, forecasting and prediction."
+accent      = "blue"                # red | purple | green | blue | yellow
+
+# ─── TECH STACK ───────────────────────────────────────────────────────
+# Detected automatically from the languages, topics and dependency files
+# (requirements.txt, package.json, pyproject.toml) of your public repos.
+[stack]
+auto = true
+min_language_share = 3              # ignore languages below this % of your code
+# Things the scan can't see (private repos, tools you use):
+extra = ["Streamlit", "FastAPI", "React", "TypeScript", "Tauri", "Gradio", "Gemini", "FastF1", "Hugging Face", "Docker", "Cloudflare", "Git", "PyCharm"]
+hide  = []                          # never show these
+pin   = ["Python"]                  # show these first within their row
+
+[stats]
+hide_languages = []                 # e.g. ["Jupyter Notebook", "HTML"]
+
+[footer]
+text = "thanks for stopping by, box box"
