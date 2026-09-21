@@ -68,4 +68,8 @@
 
 <br>
 
+<img src="./assets/gitlog.svg" alt="Latest commits" width="100%">
+
+<br>
+
 <img src="./assets/footer.svg" alt="Thanks for stopping by" width="100%">
