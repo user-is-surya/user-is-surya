@@ -7,11 +7,11 @@
 <linearGradient id="top" x1="0" x2="1"><stop offset="0" stop-color="#B138DD"/><stop offset="1" stop-color="#B138DD" stop-opacity="0"/></linearGradient><linearGradient id="eq" gradientUnits="userSpaceOnUse" x1="24" x2="466"><stop offset="0" stop-color="#B138DD"/><stop offset="1" stop-color="#E10600"/></linearGradient></defs>
 <g clip-path="url(#cr)"><rect width="490" height="262" fill="#0A0B0D"/><rect width="490" height="262" fill="url(#cf)" opacity=".55"/><rect width="490" height="4" fill="url(#top)"/></g><rect x=".5" y=".5" width="489" height="261" rx="14" fill="none" stroke="#2A2C31"/>
 <text x="24" y="52" font-size="26" font-weight="800" fill="#E6E7EA">S.A.G.E</text>
-<circle cx="342.8" cy="45" r="4" fill="#B138DD"/>
-<text x="356.8 364.6 380.2 388 395.8 403.6 411.4 419.2 427 434.8 442.6 450.4 458.2" y="50" font-size="13" fill="#8B8F97" >indevelopment</text>
+<circle cx="358.4" cy="45" r="4" fill="#B138DD"/>
+<text x="372.4 380.2 388 395.8 403.6 411.4 419.2 434.8 442.6 450.4 458.2" y="50" font-size="13" fill="#8B8F97" >privaterepo</text>
 <text x="24" y="80" font-size="14" fill="#8B8F97">Surya's Advanced General Entity</text>
 <text x="24" y="110" font-size="14" fill="#B138DD" >+</text>
-<text x="40.8 49.2 57.6 66 74.4 82.8 91.2 99.6 108 116.4 124.8 133.2 150 158.4 166.8 175.2 183.6 192 208.8 217.2 225.6 234 242.4 250.8 267.6 276 284.4 301.2 309.6 318 326.4 334.8 343.2 351.6 368.4 376.8 385.2 393.6 402 410.4 418.8" y="110" font-size="14" fill="#E6E7EA" >JARVIS-stylevoice,visionandgesturecontrol</text>
+<text x="40.8 49.2 57.6 66 74.4 82.8 91.2 99.6 108 116.4 133.2 141.6 150 158.4 166.8 175.2 192 200.4 208.8 217.2 225.6 234 250.8 259.2 267.6 284.4 292.8 301.2 309.6 318 326.4 334.8 351.6 360 368.4 376.8 385.2 393.6 402" y="110" font-size="14" fill="#E6E7EA" >Human-likevoice,visionandgesturecontrol</text>
 <text x="24" y="132" font-size="14" fill="#B138DD" >+</text>
 <text x="40.8 49.2 57.6 66 74.4 82.8 99.6 108 116.4 124.8 133.2 141.6 150 158.4 166.8 183.6 192 200.4 208.8 217.2 234 242.4 250.8 267.6 276 284.4 301.2 309.6 326.4 334.8 343.2 351.6 360 368.4 376.8" y="132" font-size="14" fill="#E6E7EA" >email,calendar,filesandGitbycommand</text>
 <text x="24" y="154" font-size="14" fill="#B138DD" >+</text>
