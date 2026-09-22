@@ -1,29 +1,37 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 186" width="1000" height="186" role="img" aria-label="Latest commits" font-family="'JetBrains Mono','Fira Code','Cascadia Code','SF Mono',Menlo,Consolas,'Liberation Mono','DejaVu Sans Mono',monospace">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 240" width="1000" height="240" role="img" aria-label="Latest commits" font-family="'JetBrains Mono','Fira Code','Cascadia Code','SF Mono',Menlo,Consolas,'Liberation Mono','DejaVu Sans Mono',monospace">
 <title>Latest commits</title>
 <defs></defs>
-<rect width="1000" height="186" rx="14" fill="#0A0B0D"/><rect x=".5" y=".5" width="999" height="185" rx="14" fill="none" stroke="#2A2C31"/>
+<rect width="1000" height="240" rx="14" fill="#0A0B0D"/><rect x=".5" y=".5" width="999" height="239" rx="14" fill="none" stroke="#2A2C31"/>
 <text x="28 37.6 47.2 56.8 66.4 76 85.6 95.2 104.8 114.4 124 133.6 143.2" y="42" font-size="16" fill="#00D26A" >surya@pitwall</text>
 <text x="152.8" y="42" font-size="16" fill="#8B8F97" >:</text>
 <text x="162.4" y="42" font-size="16" fill="#5B9DFF" >~</text>
 <text x="172" y="42" font-size="16" fill="#8B8F97" >$</text>
-<text x="191.2 200.8 210.4 229.6 239.2 248.8 268 277.6 287.2 296.8 306.4 316 325.6 335.2 344.8 364 373.6" y="42" font-size="16" fill="#E6E7EA" >gitlog--oneline-4</text>
+<text x="191.2 200.8 210.4 229.6 239.2 248.8 268 277.6 287.2 296.8 306.4 316 325.6 335.2 344.8 364 373.6" y="42" font-size="16" fill="#E6E7EA" >gitlog--oneline-6</text>
 <rect x="387.2" y="27" width="9" height="19" fill="#FF2A1A"><animate attributeName="opacity" calcMode="discrete" values="1;0" keyTimes="0;.5" dur="1s" repeatCount="indefinite"/></rect>
 <rect x="28" y="56" width="944" height="1" fill="#2A2C31"/>
-<text x="28 37 46 55 64 73 82" y="88" font-size="15" fill="#FFC400" >ddced8a</text>
-<text x="100 109 118 127 136 145 154 163 172 181 190 199 208" y="88" font-size="15" fill="#5B9DFF" >user-is-surya</text>
-<text x="253 262 271 280 289 298 316 325 334 343 352 361 370 379 388 397 406 415" y="88" font-size="15" fill="#E6E7EA" >Updateprofile.toml</text>
-<text x="972" y="88" font-size="13" fill="#8B8F97" text-anchor="end">Sep 21</text>
+<text x="28 37 46 55 64 73 82" y="88" font-size="15" fill="#FFC400" >6ed8d8f</text>
+<text x="100 109 118 127 136 145 154" y="88" font-size="15" fill="#5B9DFF" >testttt</text>
+<text x="253 262 271 280 289 307 316 325 334 352 361 370 379 388 397 406 424 433 451 460 469 478 496 505 514 523 532 541 550 559 568 577 586 595 604 613 622 631 640" y="88" font-size="15" fill="#E6E7EA" >Mergepullrequest#2fromuser-is-surya/1.2</text>
+<text x="972" y="88" font-size="13" fill="#8B8F97" text-anchor="end">Sep 22</text>
 <circle cx="16" cy="83" r="3.5" fill="#FF2A1A"><animate attributeName="opacity" values="1;.25;1" dur="1.6s" repeatCount="indefinite"/></circle>
-<text x="28 37 46 55 64 73 82" y="115" font-size="15" fill="#FFC400" >44805ab</text>
-<text x="100 109 118 127 136 145 154 163 172 181 190 199 208" y="115" font-size="15" fill="#5B9DFF" >user-is-surya</text>
-<text x="253 262 271 280 289 298 316 325 334 343 352 361 370 388 397 406 415 424 442 451 469 478 487 496 505 514 523 532 541 550 559 568" y="115" font-size="15" fill="#E6E7EA" >Revisetaglinelinesinprofile.toml</text>
-<text x="972" y="115" font-size="13" fill="#8B8F97" text-anchor="end">Sep 21</text>
-<text x="28 37 46 55 64 73 82" y="142" font-size="15" fill="#FFC400" >7e07c79</text>
+<text x="28 37 46 55 64 73 82" y="115" font-size="15" fill="#FFC400" >5eb4608</text>
+<text x="100 109 118 127 136 145 154" y="115" font-size="15" fill="#5B9DFF" >testttt</text>
+<text x="253 262 271 289 298 307 316 325 334 343 361 370 379 388 397 406 424 433 442 460 469 478 487 496 514 523 532 541 559 568 577 586 604 613 631 640 649 658 667 676" y="115" font-size="15" fill="#E6E7EA" >AddsectionheaderandfirsteditnotetoREADME</text>
+<text x="972" y="115" font-size="13" fill="#8B8F97" text-anchor="end">Sep 22</text>
+<text x="28 37 46 55 64 73 82" y="142" font-size="15" fill="#FFC400" >049746b</text>
 <text x="100 109 118 127 136 145 154 163 172 181 190 199 208" y="142" font-size="15" fill="#5B9DFF" >user-is-surya</text>
-<text x="253 262 271 280 289 298 316 325 334 343 352 361 370 388 397 406 415 424 433 451 460 469 487 496 505 514 523 532 550 559 568 577 586 595 613 622 640 649 658 667 676 685 694 703 712 721 730 739" y="142" font-size="15" fill="#E6E7EA" >Updateprojectstatusandbulletpointsinprofile.toml</text>
-<text x="972" y="142" font-size="13" fill="#8B8F97" text-anchor="end">Sep 21</text>
-<text x="28 37 46 55 64 73 82" y="169" font-size="15" fill="#FFC400" >e7ee2d8</text>
+<text x="253 262 271 280 289 298 316 325 334 343 352 361 370 388 397 406 415 424 433 442 460 469 478 496 505 514 523 532 541 559 568 577 586 604 613 622 631 649 658 667 676 685 694 703 712 721 730" y="142" font-size="15" fill="#E6E7EA" >Updateprofiletaglineandtogglelastpushvisibility</text>
+<text x="972" y="142" font-size="13" fill="#8B8F97" text-anchor="end">Sep 22</text>
+<text x="28 37 46 55 64 73 82" y="169" font-size="15" fill="#FFC400" >ddced8a</text>
 <text x="100 109 118 127 136 145 154 163 172 181 190 199 208" y="169" font-size="15" fill="#5B9DFF" >user-is-surya</text>
-<text x="253 262 271 289 298 307 316 325 343 352 361 379 388 397 406 415 424" y="169" font-size="15" fill="#E6E7EA" >Addfilesviaupload</text>
+<text x="253 262 271 280 289 298 316 325 334 343 352 361 370 379 388 397 406 415" y="169" font-size="15" fill="#E6E7EA" >Updateprofile.toml</text>
 <text x="972" y="169" font-size="13" fill="#8B8F97" text-anchor="end">Sep 21</text>
+<text x="28 37 46 55 64 73 82" y="196" font-size="15" fill="#FFC400" >44805ab</text>
+<text x="100 109 118 127 136 145 154 163 172 181 190 199 208" y="196" font-size="15" fill="#5B9DFF" >user-is-surya</text>
+<text x="253 262 271 280 289 298 316 325 334 343 352 361 370 388 397 406 415 424 442 451 469 478 487 496 505 514 523 532 541 550 559 568" y="196" font-size="15" fill="#E6E7EA" >Revisetaglinelinesinprofile.toml</text>
+<text x="972" y="196" font-size="13" fill="#8B8F97" text-anchor="end">Sep 21</text>
+<text x="28 37 46 55 64 73 82" y="223" font-size="15" fill="#FFC400" >7e07c79</text>
+<text x="100 109 118 127 136 145 154 163 172 181 190 199 208" y="223" font-size="15" fill="#5B9DFF" >user-is-surya</text>
+<text x="253 262 271 280 289 298 316 325 334 343 352 361 370 388 397 406 415 424 433 451 460 469 487 496 505 514 523 532 550 559 568 577 586 595 613 622 640 649 658 667 676 685 694 703 712 721 730 739" y="223" font-size="15" fill="#E6E7EA" >Updateprojectstatusandbulletpointsinprofile.toml</text>
+<text x="972" y="223" font-size="13" fill="#8B8F97" text-anchor="end">Sep 21</text>
 </svg>
