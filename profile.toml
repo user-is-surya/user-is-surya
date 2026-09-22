@@ -18,11 +18,11 @@ email    = "contactsurya33@gmail.com"
 # The typing tagline cycles through these (max 5 lines, about 46 characters each).
 lines = [
   "AI & Data Science student at CIT Chennai",
-  "Exploring AI, software, and intelligent systems",
-  "Building things, breaking things, learning things",
+  "Exploring AI and intelligent systems",
+  "Building, breaking, learning things",
   "Code first. Figure it out along the way",
 ]
-show_last_push = true               # auto-adds "last push: <repo>, <date>" from your GitHub activity
+show_last_push = false               # auto-adds "last push: <repo>, <date>" from your GitHub activity
 
 [sections]                          # true / false to show or hide
 projects = true
