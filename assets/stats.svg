@@ -11,7 +11,7 @@
 <text x="278" y="74" font-size="13" font-weight="700" fill="#E6E7EA" text-anchor="end">57</text>
 <rect x="25" y="95" width="8" height="8" rx="2" fill="#E10600"/>
 <text x="44" y="104" font-size="13" fill="#8B8F97">Current streak</text>
-<text x="278" y="104" font-size="13" font-weight="700" fill="#E6E7EA" text-anchor="end">3 days</text>
+<text x="278" y="104" font-size="13" font-weight="700" fill="#E6E7EA" text-anchor="end">0 days</text>
 <rect x="25" y="125" width="8" height="8" rx="2" fill="#E10600"/>
 <text x="44" y="134" font-size="13" fill="#8B8F97">Longest streak</text>
 <text x="278" y="134" font-size="13" font-weight="700" fill="#E6E7EA" text-anchor="end">3 days</text>
