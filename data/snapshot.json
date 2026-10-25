@@ -1,10 +1,30 @@
 {
  "user": {
   "name": "Surya B",
-  "public_repos": 3,
+  "public_repos": 4,
   "followers": 0
  },
  "repos": [
+  {
+   "name": "Exploration_in_AI",
+   "full": "user-is-surya/Exploration_in_AI",
+   "description": null,
+   "language": "Python",
+   "stars": 0,
+   "forks": 0,
+   "topics": [],
+   "homepage": "",
+   "pushed_at": "2026-10-25T12:38:49Z",
+   "fork": false,
+   "archived": false,
+   "private": false,
+   "url": "https://github.com/user-is-surya/Exploration_in_AI",
+   "branch": "main",
+   "languages": {
+    "Python": 1463
+   },
+   "deps": []
+  },
   {
    "name": "user-is-surya",
    "full": "user-is-surya/user-is-surya",
@@ -14,7 +34,7 @@
    "forks": 0,
    "topics": [],
    "homepage": "",
-   "pushed_at": "2026-10-25T02:28:01Z",
+   "pushed_at": "2026-10-25T07:56:48Z",
    "fork": false,
    "archived": false,
    "private": false,
@@ -147,7 +167,7 @@
   }
  ],
  "calendar": {
-  "total": 57,
+  "total": 62,
   "days": [
    {
     "date": "2025-10-26",
@@ -1971,17 +1991,23 @@
    },
    {
     "date": "2026-10-25",
-    "count": 0,
-    "level": 0
+    "count": 5,
+    "level": 4
    }
   ]
  },
  "events": [
   {
-   "repo": "testttt",
-   "sha": "e0b3a8d97edf906158f6a89327246917ecf36252",
-   "msg": "Merge pull request #1 from user-is-surya/1.2",
-   "time": "2026-09-23T10:06:33Z"
+   "repo": "Exploration_in_AI",
+   "sha": "7fd56e9523dfed0ca5072a8e0dd62b16ba2c1e35",
+   "msg": "Add exploration record section to README",
+   "time": "2026-10-25T12:33:20Z"
+  },
+  {
+   "repo": "Exploration_in_AI",
+   "sha": "d939f8ee15a96bef397dd5b4b7ef57533a8e304d",
+   "msg": "Add files via upload",
+   "time": "2026-10-25T12:32:38Z"
   }
  ]
 }
