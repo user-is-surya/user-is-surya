@@ -3,9 +3,18 @@
 <defs><linearGradient id="sw" x1="0" x2="1"><stop offset="0" stop-color="#fff" stop-opacity="0"/><stop offset=".9" stop-color="#fff" stop-opacity=".95"/><stop offset="1" stop-color="#fff" stop-opacity="0"/></linearGradient><clipPath id="bar"><rect x="25" y="56" width="440" height="12" rx="6"/></clipPath></defs>
 <rect width="490" height="232" rx="14" fill="#0A0B0D"/><rect x=".5" y=".5" width="489" height="231" rx="14" fill="none" stroke="#2A2C31"/>
 <text x="25" y="38" font-size="18" font-weight="800" fill="#E10600">Top languages</text>
-<g clip-path="url(#bar)"><rect x="25" y="56" width="440" height="12" fill="#E10600"/><rect x="0" y="56" width="110" height="12" fill="url(#sw)" opacity=".4"><animateTransform attributeName="transform" type="translate" from="-110 0" to="470 0" dur="3.6s" repeatCount="indefinite"/></rect></g>
+<g clip-path="url(#bar)"><rect x="25" y="56" width="271.48" height="12" fill="#E10600"/><rect x="296.48" y="56" width="153.56" height="12" fill="#B138DD"/><rect x="450.04" y="56" width="8.36" height="12" fill="#FFC400"/><rect x="458.4" y="56" width="7.04" height="12" fill="#5B9DFF"/><rect x="0" y="56" width="110" height="12" fill="url(#sw)" opacity=".4"><animateTransform attributeName="transform" type="translate" from="-110 0" to="470 0" dur="3.6s" repeatCount="indefinite"/></rect></g>
 <circle cx="30" cy="102" r="5" fill="#E10600"/>
 <text x="43" y="106" font-size="13" fill="#E6E7EA">Python</text>
-<text x="230" y="106" font-size="13" fill="#8B8F97" text-anchor="end">100.0%</text>
-<text x="25" y="214" font-size="11" fill="#8B8F97">by code size across 4 public repos</text>
+<text x="230" y="106" font-size="13" fill="#8B8F97" text-anchor="end">61.7%</text>
+<circle cx="255" cy="102" r="5" fill="#B138DD"/>
+<text x="268" y="106" font-size="13" fill="#E6E7EA">JavaScript</text>
+<text x="455" y="106" font-size="13" fill="#8B8F97" text-anchor="end">34.9%</text>
+<circle cx="30" cy="134" r="5" fill="#FFC400"/>
+<text x="43" y="138" font-size="13" fill="#E6E7EA">HTML</text>
+<text x="230" y="138" font-size="13" fill="#8B8F97" text-anchor="end">1.9%</text>
+<circle cx="255" cy="134" r="5" fill="#5B9DFF"/>
+<text x="268" y="138" font-size="13" fill="#E6E7EA">CSS</text>
+<text x="455" y="138" font-size="13" fill="#8B8F97" text-anchor="end">1.6%</text>
+<text x="25" y="214" font-size="11" fill="#8B8F97">by code size across 5 public repos</text>
 </svg>

@@ -1,10 +1,34 @@
 {
  "user": {
   "name": "Surya B",
-  "public_repos": 4,
+  "public_repos": 5,
   "followers": 0
  },
  "repos": [
+  {
+   "name": "meet-memes",
+   "full": "user-is-surya/meet-memes",
+   "description": "Gesture-triggered meme effects for Google Meet: Thanos snap, Absolute Cinema, Noice and more. Add your own memes.",
+   "language": "JavaScript",
+   "stars": 0,
+   "forks": 0,
+   "topics": [],
+   "homepage": "",
+   "pushed_at": "2026-10-31T11:06:26Z",
+   "fork": false,
+   "archived": false,
+   "private": false,
+   "url": "https://github.com/user-is-surya/meet-memes",
+   "branch": "main",
+   "languages": {
+    "JavaScript": 103646,
+    "HTML": 5646,
+    "CSS": 4685
+   },
+   "deps": [
+    "@mediapipe/tasks-vision"
+   ]
+  },
   {
    "name": "user-is-surya",
    "full": "user-is-surya/user-is-surya",
@@ -14,7 +38,7 @@
    "forks": 0,
    "topics": [],
    "homepage": "",
-   "pushed_at": "2026-10-30T21:49:19Z",
+   "pushed_at": "2026-10-31T03:26:57Z",
    "fork": false,
    "archived": false,
    "private": false,
@@ -167,7 +191,7 @@
   }
  ],
  "calendar": {
-  "total": 62,
+  "total": 65,
   "days": [
    {
     "date": "2025-10-26",
@@ -2021,8 +2045,8 @@
    },
    {
     "date": "2026-10-31",
-    "count": 0,
-    "level": 0
+    "count": 3,
+    "level": 2
    }
   ]
  },

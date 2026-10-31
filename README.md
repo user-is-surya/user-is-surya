@@ -29,6 +29,7 @@
 
 <div align="center">
 <img src="https://img.shields.io/badge/Python-1B1D21?style=for-the-badge&amp;logo=python&amp;logoColor=E10600" alt="Python">
+<img src="https://img.shields.io/badge/JavaScript-1B1D21?style=for-the-badge&amp;logo=javascript&amp;logoColor=E10600" alt="JavaScript">
 <img src="https://img.shields.io/badge/TypeScript-1B1D21?style=for-the-badge&amp;logo=typescript&amp;logoColor=E10600" alt="TypeScript">
 <br>
 <img src="https://img.shields.io/badge/NumPy-1B1D21?style=for-the-badge&amp;logo=numpy&amp;logoColor=E10600" alt="NumPy">
@@ -64,7 +65,7 @@
 
 <img src="./assets/sec-activity.svg" alt="contribution graph" width="100%">
 
-<img src="./assets/heatmap.svg" alt="Contribution graph: 62 contributions in the last year" width="100%">
+<img src="./assets/heatmap.svg" alt="Contribution graph: 65 contributions in the last year" width="100%">
 
 <br>
 
