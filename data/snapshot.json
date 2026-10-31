@@ -6,6 +6,26 @@
  },
  "repos": [
   {
+   "name": "user-is-surya",
+   "full": "user-is-surya/user-is-surya",
+   "description": null,
+   "language": "Python",
+   "stars": 0,
+   "forks": 0,
+   "topics": [],
+   "homepage": "",
+   "pushed_at": "2026-10-31T11:28:26Z",
+   "fork": false,
+   "archived": false,
+   "private": false,
+   "url": "https://github.com/user-is-surya/user-is-surya",
+   "branch": "main",
+   "languages": {
+    "Python": 53601
+   },
+   "deps": []
+  },
+  {
    "name": "meet-memes",
    "full": "user-is-surya/meet-memes",
    "description": "Gesture-triggered meme effects for Google Meet: Thanos snap, Absolute Cinema, Noice and more. Add your own memes.",
@@ -28,26 +48,6 @@
    "deps": [
     "@mediapipe/tasks-vision"
    ]
-  },
-  {
-   "name": "user-is-surya",
-   "full": "user-is-surya/user-is-surya",
-   "description": null,
-   "language": "Python",
-   "stars": 0,
-   "forks": 0,
-   "topics": [],
-   "homepage": "",
-   "pushed_at": "2026-10-31T03:26:57Z",
-   "fork": false,
-   "archived": false,
-   "private": false,
-   "url": "https://github.com/user-is-surya/user-is-surya",
-   "branch": "main",
-   "languages": {
-    "Python": 53601
-   },
-   "deps": []
   },
   {
    "name": "Exploration_in_AI",
