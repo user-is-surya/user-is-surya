@@ -30,9 +30,13 @@
 <div align="center">
 <img src="https://img.shields.io/badge/Python-1B1D21?style=for-the-badge&amp;logo=python&amp;logoColor=E10600" alt="Python">
 <img src="https://img.shields.io/badge/JavaScript-1B1D21?style=for-the-badge&amp;logo=javascript&amp;logoColor=E10600" alt="JavaScript">
+<img src="https://img.shields.io/badge/C-1B1D21?style=for-the-badge&amp;logo=c&amp;logoColor=E10600" alt="C">
+<img src="https://img.shields.io/badge/C%2B%2B-1B1D21?style=for-the-badge&amp;logo=cplusplus&amp;logoColor=E10600" alt="C++">
+<img src="https://img.shields.io/badge/HTML-1B1D21?style=for-the-badge&amp;logo=html5&amp;logoColor=E10600" alt="HTML">
 <img src="https://img.shields.io/badge/TypeScript-1B1D21?style=for-the-badge&amp;logo=typescript&amp;logoColor=E10600" alt="TypeScript">
 <br>
 <img src="https://img.shields.io/badge/NumPy-1B1D21?style=for-the-badge&amp;logo=numpy&amp;logoColor=E10600" alt="NumPy">
+<img src="https://img.shields.io/badge/scikit--learn-1B1D21?style=for-the-badge&amp;logo=scikitlearn&amp;logoColor=E10600" alt="scikit-learn">
 <img src="https://img.shields.io/badge/Pandas-1B1D21?style=for-the-badge&amp;logo=pandas&amp;logoColor=E10600" alt="Pandas">
 <img src="https://img.shields.io/badge/Plotly-1B1D21?style=for-the-badge&amp;logo=plotly&amp;logoColor=E10600" alt="Plotly">
 <img src="https://img.shields.io/badge/Gemini-1B1D21?style=for-the-badge&amp;logo=googlegemini&amp;logoColor=E10600" alt="Gemini">
@@ -65,7 +69,7 @@
 
 <img src="./assets/sec-activity.svg" alt="contribution graph" width="100%">
 
-<img src="./assets/heatmap.svg" alt="Contribution graph: 67 contributions in the last year" width="100%">
+<img src="./assets/heatmap.svg" alt="Contribution graph: 73 contributions in the last year" width="100%">
 
 <br>
 
