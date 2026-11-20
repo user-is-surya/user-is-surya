@@ -6,6 +6,26 @@
  },
  "repos": [
   {
+   "name": "user-is-surya",
+   "full": "user-is-surya/user-is-surya",
+   "description": null,
+   "language": "Python",
+   "stars": 0,
+   "forks": 0,
+   "topics": [],
+   "homepage": "",
+   "pushed_at": "2026-11-20T10:45:30Z",
+   "fork": false,
+   "archived": false,
+   "private": false,
+   "url": "https://github.com/user-is-surya/user-is-surya",
+   "branch": "main",
+   "languages": {
+    "Python": 53601
+   },
+   "deps": []
+  },
+  {
    "name": "klarify-prototype",
    "full": "user-is-surya/klarify-prototype",
    "description": "Klarify sound-alert prototype (ESP32 + phone portal)",
@@ -53,26 +73,6 @@
    "url": "https://github.com/user-is-surya/dtproj",
    "branch": "main",
    "languages": {},
-   "deps": []
-  },
-  {
-   "name": "user-is-surya",
-   "full": "user-is-surya/user-is-surya",
-   "description": null,
-   "language": "Python",
-   "stars": 0,
-   "forks": 0,
-   "topics": [],
-   "homepage": "",
-   "pushed_at": "2026-11-20T01:57:35Z",
-   "fork": false,
-   "archived": false,
-   "private": false,
-   "url": "https://github.com/user-is-surya/user-is-surya",
-   "branch": "main",
-   "languages": {
-    "Python": 53601
-   },
    "deps": []
   },
   {
