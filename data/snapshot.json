@@ -14,7 +14,7 @@
    "forks": 0,
    "topics": [],
    "homepage": "",
-   "pushed_at": "2026-11-22T00:48:52Z",
+   "pushed_at": "2026-11-22T10:33:19Z",
    "fork": false,
    "archived": false,
    "private": false,
@@ -2072,6 +2072,12 @@
  },
  "events": [
   {
+   "repo": "klarify-prototype",
+   "sha": "9630fa293f1a3213f24dce8f749d152ff992aeb8",
+   "msg": "v1.2: over-the-air updates and a new portal UI",
+   "time": "2026-11-20T09:02:40Z"
+  },
+  {
    "repo": "Exploration_in_AI",
    "sha": "374eb25c1b91c00d6763f3ca3bae6f52ee9fa384",
    "msg": "Add files via upload",
@@ -2100,12 +2106,6 @@
    "sha": "7fd56e9523dfed0ca5072a8e0dd62b16ba2c1e35",
    "msg": "Add exploration record section to README",
    "time": "2026-10-25T12:33:20Z"
-  },
-  {
-   "repo": "Exploration_in_AI",
-   "sha": "d939f8ee15a96bef397dd5b4b7ef57533a8e304d",
-   "msg": "Add files via upload",
-   "time": "2026-10-25T12:32:38Z"
   }
  ]
 }
