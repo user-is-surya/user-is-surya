@@ -69,7 +69,7 @@
 
 <img src="./assets/sec-activity.svg" alt="contribution graph" width="100%">
 
-<img src="./assets/heatmap.svg" alt="Contribution graph: 73 contributions in the last year" width="100%">
+<img src="./assets/heatmap.svg" alt="Contribution graph: 75 contributions in the last year" width="100%">
 
 <br>
 

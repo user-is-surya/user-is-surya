@@ -6,6 +6,26 @@
  },
  "repos": [
   {
+   "name": "Exploration_in_AI",
+   "full": "user-is-surya/Exploration_in_AI",
+   "description": null,
+   "language": "Python",
+   "stars": 0,
+   "forks": 0,
+   "topics": [],
+   "homepage": "",
+   "pushed_at": "2026-11-25T01:52:34Z",
+   "fork": false,
+   "archived": false,
+   "private": false,
+   "url": "https://github.com/user-is-surya/Exploration_in_AI",
+   "branch": "main",
+   "languages": {
+    "Python": 5398
+   },
+   "deps": []
+  },
+  {
    "name": "user-is-surya",
    "full": "user-is-surya/user-is-surya",
    "description": null,
@@ -14,7 +34,7 @@
    "forks": 0,
    "topics": [],
    "homepage": "",
-   "pushed_at": "2026-11-24T07:43:37Z",
+   "pushed_at": "2026-11-24T19:49:39Z",
    "fork": false,
    "archived": false,
    "private": false,
@@ -98,26 +118,6 @@
    "deps": [
     "@mediapipe/tasks-vision"
    ]
-  },
-  {
-   "name": "Exploration_in_AI",
-   "full": "user-is-surya/Exploration_in_AI",
-   "description": null,
-   "language": "Python",
-   "stars": 0,
-   "forks": 0,
-   "topics": [],
-   "homepage": "",
-   "pushed_at": "2026-11-03T00:23:52Z",
-   "fork": false,
-   "archived": false,
-   "private": false,
-   "url": "https://github.com/user-is-surya/Exploration_in_AI",
-   "branch": "main",
-   "languages": {
-    "Python": 3902
-   },
-   "deps": []
   },
   {
    "name": "testttt",
@@ -241,7 +241,7 @@
   }
  ],
  "calendar": {
-  "total": 73,
+  "total": 75,
   "days": [
    {
     "date": "2025-11-23",
@@ -2077,6 +2077,11 @@
     "date": "2026-11-24",
     "count": 0,
     "level": 0
+   },
+   {
+    "date": "2026-11-25",
+    "count": 2,
+    "level": 2
    }
   ]
  },
@@ -2110,12 +2115,6 @@
    "sha": "c477b0e3c951e7301f032124b03579db05fcd629",
    "msg": "Add files via upload",
    "time": "2026-10-25T12:38:50Z"
-  },
-  {
-   "repo": "Exploration_in_AI",
-   "sha": "7fd56e9523dfed0ca5072a8e0dd62b16ba2c1e35",
-   "msg": "Add exploration record section to README",
-   "time": "2026-10-25T12:33:20Z"
   }
  ]
 }
