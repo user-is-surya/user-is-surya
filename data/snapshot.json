@@ -6,6 +6,26 @@
  },
  "repos": [
   {
+   "name": "user-is-surya",
+   "full": "user-is-surya/user-is-surya",
+   "description": null,
+   "language": "Python",
+   "stars": 0,
+   "forks": 0,
+   "topics": [],
+   "homepage": "",
+   "pushed_at": "2026-11-26T01:21:27Z",
+   "fork": false,
+   "archived": false,
+   "private": false,
+   "url": "https://github.com/user-is-surya/user-is-surya",
+   "branch": "main",
+   "languages": {
+    "Python": 53601
+   },
+   "deps": []
+  },
+  {
    "name": "sage-seva",
    "full": "user-is-surya/sage-seva",
    "description": "Say it in your language, see exactly what gets submitted: an Indic voice agent for e-service forms with a name-consistency guard, action-bound consent and tamper-evident receipts.",
@@ -38,26 +58,6 @@
     "rapidfuzz",
     "uvicorn"
    ]
-  },
-  {
-   "name": "user-is-surya",
-   "full": "user-is-surya/user-is-surya",
-   "description": null,
-   "language": "Python",
-   "stars": 0,
-   "forks": 0,
-   "topics": [],
-   "homepage": "",
-   "pushed_at": "2026-11-25T16:32:14Z",
-   "fork": false,
-   "archived": false,
-   "private": false,
-   "url": "https://github.com/user-is-surya/user-is-surya",
-   "branch": "main",
-   "languages": {
-    "Python": 53601
-   },
-   "deps": []
   },
   {
    "name": "Exploration_in_AI",
