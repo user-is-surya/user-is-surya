@@ -30,21 +30,22 @@
 <div align="center">
 <img src="https://img.shields.io/badge/Python-1B1D21?style=for-the-badge&amp;logo=python&amp;logoColor=E10600" alt="Python">
 <img src="https://img.shields.io/badge/JavaScript-1B1D21?style=for-the-badge&amp;logo=javascript&amp;logoColor=E10600" alt="JavaScript">
-<img src="https://img.shields.io/badge/C-1B1D21?style=for-the-badge&amp;logo=c&amp;logoColor=E10600" alt="C">
-<img src="https://img.shields.io/badge/C%2B%2B-1B1D21?style=for-the-badge&amp;logo=cplusplus&amp;logoColor=E10600" alt="C++">
-<img src="https://img.shields.io/badge/HTML-1B1D21?style=for-the-badge&amp;logo=html5&amp;logoColor=E10600" alt="HTML">
 <img src="https://img.shields.io/badge/TypeScript-1B1D21?style=for-the-badge&amp;logo=typescript&amp;logoColor=E10600" alt="TypeScript">
+<img src="https://img.shields.io/badge/HTML-1B1D21?style=for-the-badge&amp;logo=html5&amp;logoColor=E10600" alt="HTML">
+<img src="https://img.shields.io/badge/C-1B1D21?style=for-the-badge&amp;logo=c&amp;logoColor=E10600" alt="C">
+<img src="https://img.shields.io/badge/CSS-1B1D21?style=for-the-badge&amp;logo=css3&amp;logoColor=E10600" alt="CSS">
+<img src="https://img.shields.io/badge/C%2B%2B-1B1D21?style=for-the-badge&amp;logo=cplusplus&amp;logoColor=E10600" alt="C++">
 <br>
+<img src="https://img.shields.io/badge/Gemini-1B1D21?style=for-the-badge&amp;logo=googlegemini&amp;logoColor=E10600" alt="Gemini">
 <img src="https://img.shields.io/badge/NumPy-1B1D21?style=for-the-badge&amp;logo=numpy&amp;logoColor=E10600" alt="NumPy">
 <img src="https://img.shields.io/badge/scikit--learn-1B1D21?style=for-the-badge&amp;logo=scikitlearn&amp;logoColor=E10600" alt="scikit-learn">
 <img src="https://img.shields.io/badge/Pandas-1B1D21?style=for-the-badge&amp;logo=pandas&amp;logoColor=E10600" alt="Pandas">
 <img src="https://img.shields.io/badge/Plotly-1B1D21?style=for-the-badge&amp;logo=plotly&amp;logoColor=E10600" alt="Plotly">
-<img src="https://img.shields.io/badge/Gemini-1B1D21?style=for-the-badge&amp;logo=googlegemini&amp;logoColor=E10600" alt="Gemini">
 <img src="https://img.shields.io/badge/FastF1-1B1D21?style=for-the-badge&amp;logo=formula1&amp;logoColor=E10600" alt="FastF1">
 <img src="https://img.shields.io/badge/Hugging_Face-1B1D21?style=for-the-badge&amp;logo=huggingface&amp;logoColor=E10600" alt="Hugging Face">
 <br>
-<img src="https://img.shields.io/badge/Streamlit-1B1D21?style=for-the-badge&amp;logo=streamlit&amp;logoColor=E10600" alt="Streamlit">
 <img src="https://img.shields.io/badge/FastAPI-1B1D21?style=for-the-badge&amp;logo=fastapi&amp;logoColor=E10600" alt="FastAPI">
+<img src="https://img.shields.io/badge/Streamlit-1B1D21?style=for-the-badge&amp;logo=streamlit&amp;logoColor=E10600" alt="Streamlit">
 <img src="https://img.shields.io/badge/React-1B1D21?style=for-the-badge&amp;logo=react&amp;logoColor=E10600" alt="React">
 <img src="https://img.shields.io/badge/Tauri-1B1D21?style=for-the-badge&amp;logo=tauri&amp;logoColor=E10600" alt="Tauri">
 <img src="https://img.shields.io/badge/Gradio-1B1D21?style=for-the-badge&amp;logo=gradio&amp;logoColor=E10600" alt="Gradio">
@@ -69,7 +70,7 @@
 
 <img src="./assets/sec-activity.svg" alt="contribution graph" width="100%">
 
-<img src="./assets/heatmap.svg" alt="Contribution graph: 75 contributions in the last year" width="100%">
+<img src="./assets/heatmap.svg" alt="Contribution graph: 83 contributions in the last year" width="100%">
 
 <br>
 

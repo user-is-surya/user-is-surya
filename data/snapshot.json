@@ -1,10 +1,44 @@
 {
  "user": {
   "name": "Surya B",
-  "public_repos": 7,
+  "public_repos": 8,
   "followers": 0
  },
  "repos": [
+  {
+   "name": "sage-seva",
+   "full": "user-is-surya/sage-seva",
+   "description": "Say it in your language, see exactly what gets submitted: an Indic voice agent for e-service forms with a name-consistency guard, action-bound consent and tamper-evident receipts.",
+   "language": "Python",
+   "stars": 0,
+   "forks": 0,
+   "topics": [],
+   "homepage": "",
+   "pushed_at": "2026-11-25T18:02:54Z",
+   "fork": false,
+   "archived": false,
+   "private": false,
+   "url": "https://github.com/user-is-surya/sage-seva",
+   "branch": "main",
+   "languages": {
+    "Python": 82814,
+    "TypeScript": 74295,
+    "HTML": 35670,
+    "CSS": 28619
+   },
+   "deps": [
+    "edge-tts",
+    "fastapi",
+    "google-genai",
+    "groq",
+    "pillow",
+    "playwright",
+    "python-dotenv",
+    "python-multipart",
+    "rapidfuzz",
+    "uvicorn"
+   ]
+  },
   {
    "name": "user-is-surya",
    "full": "user-is-surya/user-is-surya",
@@ -14,7 +48,7 @@
    "forks": 0,
    "topics": [],
    "homepage": "",
-   "pushed_at": "2026-11-25T03:53:29Z",
+   "pushed_at": "2026-11-25T16:32:14Z",
    "fork": false,
    "archived": false,
    "private": false,
@@ -241,7 +275,7 @@
   }
  ],
  "calendar": {
-  "total": 75,
+  "total": 83,
   "days": [
    {
     "date": "2025-11-23",
@@ -2080,12 +2114,23 @@
    },
    {
     "date": "2026-11-25",
-    "count": 2,
-    "level": 2
+    "count": 10,
+    "level": 4
+   },
+   {
+    "date": "2026-11-26",
+    "count": 0,
+    "level": 0
    }
   ]
  },
  "events": [
+  {
+   "repo": "Exploration_in_AI",
+   "sha": "a3852c0ebe29ab96256f86d7b3d7df65e4654459",
+   "msg": "Add Pandas Series and DataFrame for student marks",
+   "time": "2026-11-25T01:50:59Z"
+  },
   {
    "repo": "klarify-prototype",
    "sha": "9630fa293f1a3213f24dce8f749d152ff992aeb8",
@@ -2109,12 +2154,6 @@
    "sha": "5885ca264b262382d0dcac31b5391d77307b1bc9",
    "msg": "Add popup status panel and silence MediaPipe log noise (v0.1.1)",
    "time": "2026-10-31T11:06:24Z"
-  },
-  {
-   "repo": "Exploration_in_AI",
-   "sha": "c477b0e3c951e7301f032124b03579db05fcd629",
-   "msg": "Add files via upload",
-   "time": "2026-10-25T12:38:50Z"
   }
  ]
 }
