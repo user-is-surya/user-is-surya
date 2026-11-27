@@ -14,7 +14,7 @@
    "forks": 0,
    "topics": [],
    "homepage": "",
-   "pushed_at": "2026-11-26T20:44:30Z",
+   "pushed_at": "2026-11-27T03:23:34Z",
    "fork": false,
    "archived": false,
    "private": false,
@@ -2132,6 +2132,24 @@
  "events": [
   {
    "repo": "sage-seva",
+   "sha": "2a2f2b4dda45593f30c3eac2fdd542d275b4800e",
+   "msg": "Docs: team details",
+   "time": "2026-11-25T18:00:59Z"
+  },
+  {
+   "repo": "sage-seva",
+   "sha": "82f5812da20153cbb1ee2996cb035b42b620963e",
+   "msg": "Name guard: block merging different people with similar names; add evaluation, README, requirements",
+   "time": "2026-11-25T16:49:08Z"
+  },
+  {
+   "repo": "sage-seva",
+   "sha": "12ff8a773414ef757dd946ca1a2fcbe04fc834d6",
+   "msg": "Reliability: shared Gemini client, model fallback chain with 25s timeouts, English slots for forms, no invented steps; English default UI, parallel document reading",
+   "time": "2026-11-25T17:02:39Z"
+  },
+  {
+   "repo": "sage-seva",
    "sha": "57be781177bbd988fd56e8e8977aff754e408a48",
    "msg": "Fix consent/submit failures, closed-window recovery, short replies, speech stop/mute; redesigned UI and mock portal; verified end to end",
    "time": "2026-11-25T18:02:55Z"
@@ -2147,24 +2165,6 @@
    "sha": "a3852c0ebe29ab96256f86d7b3d7df65e4654459",
    "msg": "Add Pandas Series and DataFrame for student marks",
    "time": "2026-11-25T01:50:59Z"
-  },
-  {
-   "repo": "klarify-prototype",
-   "sha": "9630fa293f1a3213f24dce8f749d152ff992aeb8",
-   "msg": "v1.2: over-the-air updates and a new portal UI",
-   "time": "2026-11-20T09:02:40Z"
-  },
-  {
-   "repo": "Exploration_in_AI",
-   "sha": "374eb25c1b91c00d6763f3ca3bae6f52ee9fa384",
-   "msg": "Add files via upload",
-   "time": "2026-11-03T00:23:53Z"
-  },
-  {
-   "repo": "Exploration_in_AI",
-   "sha": "0407958fc3e356baec46e35fe3fcf719be6aa7c1",
-   "msg": "Add files via upload",
-   "time": "2026-11-03T00:03:02Z"
   }
  ]
 }
