@@ -14,7 +14,7 @@
    "forks": 0,
    "topics": [],
    "homepage": "",
-   "pushed_at": "2026-11-26T11:43:50Z",
+   "pushed_at": "2026-11-26T20:44:30Z",
    "fork": false,
    "archived": false,
    "private": false,
@@ -2121,10 +2121,27 @@
     "date": "2026-11-26",
     "count": 0,
     "level": 0
+   },
+   {
+    "date": "2026-11-27",
+    "count": 0,
+    "level": 0
    }
   ]
  },
  "events": [
+  {
+   "repo": "sage-seva",
+   "sha": "57be781177bbd988fd56e8e8977aff754e408a48",
+   "msg": "Fix consent/submit failures, closed-window recovery, short replies, speech stop/mute; redesigned UI and mock portal; verified end to end",
+   "time": "2026-11-25T18:02:55Z"
+  },
+  {
+   "repo": "Exploration_in_AI",
+   "sha": "6e5dda5b967185ad8bc7411ff3da26a12d748437",
+   "msg": "Add student data analysis script with EDAy",
+   "time": "2026-11-25T01:52:34Z"
+  },
   {
    "repo": "Exploration_in_AI",
    "sha": "a3852c0ebe29ab96256f86d7b3d7df65e4654459",
@@ -2148,12 +2165,6 @@
    "sha": "0407958fc3e356baec46e35fe3fcf719be6aa7c1",
    "msg": "Add files via upload",
    "time": "2026-11-03T00:03:02Z"
-  },
-  {
-   "repo": "meet-memes",
-   "sha": "5885ca264b262382d0dcac31b5391d77307b1bc9",
-   "msg": "Add popup status panel and silence MediaPipe log noise (v0.1.1)",
-   "time": "2026-10-31T11:06:24Z"
   }
  ]
 }
